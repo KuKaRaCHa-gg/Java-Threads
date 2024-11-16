@@ -2,13 +2,6 @@
 
 This repository contains exercises to practice multithreading in Java. The examples demonstrate the use of threads, synchronization, and concurrent programming concepts.
 
-## 📂 Contents
-- **Exercise 1** : Basic thread creation and execution.
-- **Exercise 2** : Using `Runnable` interface and `Thread` class.
-- **Exercise 3** : Synchronization and shared resources.
-- **Exercise 4** : Using `ExecutorService` for thread management.
-- **Exercise 5** : Thread communication using `wait()` and `notify()`.
-
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
