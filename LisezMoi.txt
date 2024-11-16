@@ -1,0 +1,13 @@
+Pour configure la variable CLASSPATH :
+
+$ . setclasspath
+
+Pour compiler :
+
+$ make
+
+Pour exécuter :
+
+$ java nomDuFichierAExecuter
+
+
